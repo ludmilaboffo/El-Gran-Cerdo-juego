@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1656107263 source:c:\users\karina\desktop\el gran cerdo\bibliotecaoink.cpp
+	<string>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<cctype>
+	<stdio.h>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"bibliotecaOink.h"
+	"bibliotecaJugadas.h"
+	"cerditosGraficos.h"
+
+1571584339 c:\users\karina\desktop\el gran cerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656035831 c:\users\karina\desktop\el gran cerdo\bibliotecaoink.h
+
+1656102497 source:c:\users\karina\desktop\el gran cerdo\main.cpp
+	<string>
+	<iostream>
+	<conio.h>
+	<cctype>
+	<stdio.h>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"bibliotecaOink.h"
+	"bibliotecaJugadas.h"
+	"cerditosGraficos.h"
+
+1655429856 source:c:\users\karina\desktop\el gran cerdo\jugadaoink.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<cctype>
+	<stdio.h>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"bibliotecaOink.h"
+
+1655430672 source:c:\users\karina\desktop\el gran cerdo\cppdelasjugadas.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<cctype>
+	<stdio.h>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"bibliotecaOink.h"
+
+1655446735 c:\users\karina\desktop\el gran cerdo\bibliotecajugadas.h
+
+1656107511 source:c:\users\karina\desktop\el gran cerdo\bibliotecajugadas.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<cctype>
+	<stdio.h>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"bibliotecaOink.h"
+	"cerditosGraficos.h"
+
+1656102497 c:\users\karina\desktop\el gran cerdo\cerditosgraficos.h
+
+1656102497 source:c:\users\karina\desktop\el gran cerdo\cerditosgraficos.cpp
+	<string>
+	<iostream>
+	<conio.h>
+	<cctype>
+	<stdio.h>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"bibliotecaOink.h"
+	"bibliotecaJugadas.h"
+
